@@ -1,0 +1,22 @@
+configuration {
+
+	modi: "drun,combi,window,run";
+	font: "FiraCode Nerd Font Mono 24";
+	width: 25;
+	show-icons: true;
+	icon-theme: "papirus";
+	lines: 10;
+	fake-transparency: true;
+	sidebar-mode: true;
+	
+}
+
+//@theme "/usr/share/rofi/themes/solarized.rasi"
+//@theme "/usr/share/rofi/themes/Nazgul.rasi"
+//@theme "/usr/share/rofi/themes/Nazgul.rasi"
+//@theme "/usr/share/rofi/themes/Nazgul.rasi"
+//@theme "/usr/share/rofi/themes/Nazgul.rasi"
+//@theme "/usr/share/rofi/themes/Nazgul.rasi"
+//@theme "/usr/share/rofi/themes/Nazgul.rasi"
+//@theme "/usr/share/rofi/themes/Nazgul.rasi"
+@theme "/usr/share/rofi/themes/Nazgul.rasi"

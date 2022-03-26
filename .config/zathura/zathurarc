@@ -1,0 +1,20 @@
+#Enable copy to clipboard
+set selection-clipboard clipboard
+
+#Hide gui
+set guioptions none
+
+#Font
+set font "Libre Baskerville Regular 12"
+
+#Enable auto-width
+set adjust-open best-fit
+
+#Color
+set recolor true
+
+set recolor-darkcolor \#90A383
+
+set recolor-lightcolor \#1F251F
+
+set default-bg \#1F251F
